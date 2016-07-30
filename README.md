@@ -16,3 +16,6 @@ testrida 7
 
 testrida 8
   ---- kana
+
+fix 001
+
