@@ -18,4 +18,5 @@ testrida 8
   ---- kana
 
 fix 001
+fix002
 
