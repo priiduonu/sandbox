@@ -15,3 +15,4 @@ testrida 6
 testrida 7
 
 testrida 8
+  ---- kana
