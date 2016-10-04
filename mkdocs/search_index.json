@@ -19,6 +19,11 @@
             "location": "/#project-layout", 
             "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.  add some lines.", 
             "title": "Project layout"
+        }, 
+        {
+            "location": "/kana/", 
+            "text": "", 
+            "title": "Kana"
         }
     ]
 }
