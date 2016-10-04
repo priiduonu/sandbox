@@ -24,6 +24,11 @@
             "location": "/kana/", 
             "text": "", 
             "title": "Kana"
+        }, 
+        {
+            "location": "/muna/", 
+            "text": "", 
+            "title": "Muna"
         }
     ]
 }
