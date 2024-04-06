@@ -20,3 +20,6 @@ testrida 8
 fix 001
 fix002
 
+<kbd>Ctrl+C</kbd>
+
+<kbd>Ctrl</kbd>+<kbd>C</kbd>
